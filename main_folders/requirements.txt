@@ -101,7 +101,7 @@ pyrsistent==0.15.5
 pyserial==3.4
 python-apt==2.0.0+ubuntu0.20.4.8
 python-dateutil==2.8.2
-python-debian===0.1.36ubuntu1
+python-debian===0.1.36
 python-dotenv==1.0.0
 pytiled-parser==2.2.0
 pytz==2023.3
